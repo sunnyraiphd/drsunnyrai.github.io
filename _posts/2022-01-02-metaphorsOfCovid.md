@@ -7,7 +7,7 @@ category:
 ---
 
 Metaphors are cognitive constructs that connects apparently unrelated domains. Lakoff and Johnson defined metaphors as a tool that enables people to use what they know about their direct physical and social experiences to understand more abstract things like work, time, mental activity and feelings. 
- <p align="center"> <img src="/images/covidMetaphorBlog/butterflyDream.png" alt="dream" style="width:85%"> </p>
+ <p align="center"> <img src="/images/covidMetaphorBlog/butterflyDream.png" alt="dream" style="width:45%"> </p>
 
 <!--more-->
 

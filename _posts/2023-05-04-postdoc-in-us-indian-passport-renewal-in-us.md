@@ -8,8 +8,6 @@ categories:
 - conference
 ---
 
-<p align="center">   <img src="/images/passport_renewal/passport_renewal.png" alt="search" style="width:45%"> </p>
-
 I recently came to know that if one (on J1 visa) wishes to travel to a foreign country from US and  if returning to the U.S., **the residence permit / visa must be valid for at least three months exceeding the last day of the intended stay in foreign country** (1,2).
 
 This is not a small ask!

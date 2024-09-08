@@ -4,10 +4,15 @@ author_profile: true
 
 ---
 
+Latest (Preprints)
+
+* <a href = "https://arxiv.org/abs/2402.11333"> Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice </a>
+* <a href = ""> Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations </a>
+
 For latest publication, visit [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=C-gi0v8AAAAJ&view_op=list_works&sortby=pubdate)
 
 
-* Havaldar, S, Giorgi, S, **Rai, S.**, Talhelm, T, Ungar, L., Guntuku, S.C. (2024). Building Knowledge Guided Lexica to Model Cultural Variation. To appear in NAACL'24.
+* Havaldar, S, Giorgi, S, **Rai, S.**, Talhelm, T, Ungar, L., Guntuku, S.C. (2024). Building Knowledge Guided Lexica to Model Cultural Variation. NAACL'24.
 * **Rai, S.**, Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., & Guntuku, S. C. (2024). Key language markers of depression on social media depend on race.  Available on Psyarxiv. <a href = "https://www.pnas.org/doi/10.1073/pnas.2319837121"> Paper</a>
 * Cho, Y.M., **Rai, S.**, Ungar, L., Sedoc J., Guntuku, S.C. (2023). An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives. EMNLP'23, Singapore. 
 * Havaldar, S., **Rai, S**.,  Singhal, B., Liu, L, Guntuku, S.C., & Ungar, L. (2023). Multilingual Language Models are not Multicultural: A Case Study in Emotion.  WASSA'23, ACL.   <a href = "https://aclanthology.org/2023.wassa-1.19/"> Paper</a> - ***Best Paper Award***
