@@ -23,7 +23,7 @@ author :
   # Biographic information
   avatar           : "/images/profile.png"
   name             : "Dr. Sunny Rai"
-  pronouns         : "she/her"  
+  pronouns         : "She/Her"  
   bio              : "Postdoctoral Researcher"
   location         : "USA"
   employer         : "University of Pennsylvania"
@@ -257,16 +257,27 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: publication
       author_profile: true
       share: true
       comments: true
+ # _news
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _portfolio
   - scope:
       path: ""
       type: portfolio
     values:
-      layout: single
+      layout: portfolio
       author_profile: true
       share: true
       comment: true

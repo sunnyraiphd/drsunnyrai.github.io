@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: "/news/"
+
+permalink: /news/
 author_profile: "true"
 
 ---
