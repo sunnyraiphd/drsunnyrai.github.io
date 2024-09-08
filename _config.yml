@@ -257,7 +257,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: publication
+      layout: single
       author_profile: true
       share: true
       comments: true
@@ -268,7 +268,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: true
       related: true
