@@ -13,7 +13,7 @@ Hi! I'm a postdoctoral researcher in the Department of Computer and Information 
 
 Recent News
 
-* [Aug'24] Awarded USD 50,000 by PMCRI to build a chatbot for virtual HPV vaccine counseling.
+* [Aug'24] Awarded PMCRI grant of USD 50,000 to build a chatbot for virtual HPV vaccine counseling.
 * [Mar'24] Our research on racial heterogeniety in depression is covered by [Thomson Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/ai-fails-detect-depression-signs-social-media-posts-by-black-americans-study-2024-03-28/), [Philly Voice](https://www.phillyvoice.com/artificial-intelligence-depression-mental-health-racial-disparities-penn-study-ai/), Science News, [Penn Medicine News](https://www.pennmedicine.org/news/news-releases/2024/march/depression-in-black-people-unnoticed-by-ai-analyzing-social-media), [NIDA](https://nida.nih.gov/news-events/news-releases/2024/03/analysis-of-social-media-language-using-ai-models-predicts-depression-severity-for-white-americans-but-not-black-americans)
 * [Mar'24] Long paper accepted in [NAACL'24](https://2024.naacl.org/).
 * [Jan'24] Our study "Key language markers of depression depend on race" accepted in <a href = "https://www.pnas.org/doi/10.1073/pnas.2319837121">PNAS Brief Report</a>. 
