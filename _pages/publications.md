@@ -14,7 +14,7 @@ For latest publication, visit [Google Scholar Profile](https://scholar.google.co
 Selected Publications
 
 * Havaldar, S, Giorgi, S, **Rai, S.**, Talhelm, T, Ungar, L., Guntuku, S.C. (2024). Building Knowledge Guided Lexica to Model Cultural Variation. NAACL'24.
-* **Rai, S.**, Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., & Guntuku, S. C. (2024). Key language markers of depression on social media depend on race. PNAS. <a href = "https://www.pnas.org/doi/10.1073/pnas.2319837121"> Paper</a>
+* **Rai, S.**, Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., & Guntuku, S. C. (2024). Key language markers of depression on social media depend on race. PNAS. <a href = "https://www.pnas.org/doi/10.1073/pnas.2319837121"> Paper</a> 🏆 Plenary talk at IC2S2 2023.
 * Cho, Y.M., **Rai, S.**, Ungar, L., Sedoc J., Guntuku, S.C. (2023). An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives. EMNLP'23, Singapore. 
 * Havaldar, S., **Rai, S**.,  Singhal, B., Liu, L, Guntuku, S.C., & Ungar, L. (2023). Multilingual Language Models are not Multicultural: A Case Study in Emotion.  WASSA'23, ACL.   <a href = "https://aclanthology.org/2023.wassa-1.19/"> Paper</a> - 🏆 Best Paper Award
 * Joseph, R., Liu, T., Ng, A.B., See S., & **Rai, S.** (2023) NewsMet : A ‘do it all’ dataset of contemporary Metaphors in News headlines.  ACL'23 Findings (Long). <a href = "https://aclanthology.org/2023.findings-acl.641/"> Paper</a> + <a href = "https://github.com/AxleBlaze3/NewsMet_Metaphor_Dataset"> Data</a> +  <a href="{{ site.baseurl }}/_pages/newsmet_poster/" target="_blank" > Poster</a> 

@@ -13,7 +13,7 @@ I'm a postdoctoral researcher in the Department of Computer and Information Scie
 
 Recent News
 
-* [Dec'24] Awarded Leonard Davis Institute grant of US 19,500 for multimodal depression risk assessment.
+* [Dec'24] Awarded Leonard Davis Institute grant of USD 19,500 for multimodal depression risk assessment.
 * [Aug'24] Awarded PMCRI grant of USD 50,000 to build a chatbot for virtual HPV vaccine counseling.
 * [Mar'24] Our research on racial heterogeniety in depression is covered by [Thomson Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/ai-fails-detect-depression-signs-social-media-posts-by-black-americans-study-2024-03-28/), [Philly Voice](https://www.phillyvoice.com/artificial-intelligence-depression-mental-health-racial-disparities-penn-study-ai/), Science News, [Penn Medicine News](https://www.pennmedicine.org/news/news-releases/2024/march/depression-in-black-people-unnoticed-by-ai-analyzing-social-media), [NIDA](https://nida.nih.gov/news-events/news-releases/2024/03/analysis-of-social-media-language-using-ai-models-predicts-depression-severity-for-white-americans-but-not-black-americans)
 * [Mar'24] Long paper accepted in [NAACL'24](https://2024.naacl.org/).
