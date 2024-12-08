@@ -14,7 +14,7 @@ I'm a postdoctoral researcher in the Department of Computer and Information Scie
 - [cultural alignment x behavioral health] Identifying cross-cultural variations in depression and benchmarking its impact on AI mental health assessment
 - [cultural alignment x behavioral health] building a culturally informed chatbot for virtual vaccine counseling 
 - [cultural alignment] how and why social emotions (shame, pride & guilt) are expressed across cultures
-- [Bias and risk in LLMs] Measuring harmful gender norms in entertainment media - a colab with the World Bank
+- [bias and risk in LLMs] Measuring harmful gender norms in entertainment media - a colab with the World Bank
 
 Recent News
 
