@@ -6,19 +6,20 @@ author_profile: true
 
 Latest (Preprints)
 
-* <a href = "https://arxiv.org/abs/2402.11333"> Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice </a>
+* <a href = "https://arxiv.org/abs/2402.11333"> Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice </a> 📰 featured in <a href = "https://www.ggd.world/p/what-do-hollywood-and-bollywood-regard"> The Great Gender Divergence </a>
 * <a href = "https://osf.io/s4ed6/?view_only=60e283ff40034b22a13385edbfd07cf6"> Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations </a>
 
 For latest publication, visit [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=C-gi0v8AAAAJ&view_op=list_works&sortby=pubdate)
 
+Selected Publications
 
 * Havaldar, S, Giorgi, S, **Rai, S.**, Talhelm, T, Ungar, L., Guntuku, S.C. (2024). Building Knowledge Guided Lexica to Model Cultural Variation. NAACL'24.
-* **Rai, S.**, Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., & Guntuku, S. C. (2024). Key language markers of depression on social media depend on race.  Available on Psyarxiv. <a href = "https://www.pnas.org/doi/10.1073/pnas.2319837121"> Paper</a>
+* **Rai, S.**, Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., & Guntuku, S. C. (2024). Key language markers of depression on social media depend on race. PNAS. <a href = "https://www.pnas.org/doi/10.1073/pnas.2319837121"> Paper</a>
 * Cho, Y.M., **Rai, S.**, Ungar, L., Sedoc J., Guntuku, S.C. (2023). An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives. EMNLP'23, Singapore. 
-* Havaldar, S., **Rai, S**.,  Singhal, B., Liu, L, Guntuku, S.C., & Ungar, L. (2023). Multilingual Language Models are not Multicultural: A Case Study in Emotion.  WASSA'23, ACL.   <a href = "https://aclanthology.org/2023.wassa-1.19/"> Paper</a> - ***Best Paper Award***
+* Havaldar, S., **Rai, S**.,  Singhal, B., Liu, L, Guntuku, S.C., & Ungar, L. (2023). Multilingual Language Models are not Multicultural: A Case Study in Emotion.  WASSA'23, ACL.   <a href = "https://aclanthology.org/2023.wassa-1.19/"> Paper</a> - 🏆 Best Paper Award
 * Joseph, R., Liu, T., Ng, A.B., See S., & **Rai, S.** (2023) NewsMet : A ‘do it all’ dataset of contemporary Metaphors in News headlines.  ACL'23 Findings (Long). <a href = "https://aclanthology.org/2023.findings-acl.641/"> Paper</a> + <a href = "https://github.com/AxleBlaze3/NewsMet_Metaphor_Dataset"> Data</a> +  <a href="{{ site.baseurl }}/_pages/newsmet_poster/" target="_blank" > Poster</a> 
 * Aggarwal, A., **Rai, S.**, Giorgi, S., Havaldar, S., Sherman, G., Mittal, J. & Guntuku, S. C. (2023). A Cross-Modal Study of Pain Across Communities in the United States.  WWW'23 Companion. [Link](https://doi.org/10.1145/3543873.3587642)
-*  Bogireddy, N.R., Suresh S., & **Rai, S**. (2023). I'm out of breath from laughing! I think?  A dataset of COVID-19 Humor and its toxic variants. WWW'23 Companion. Preprint and Dataset available  <a href="https://github.com/smritae01/Covid19_Humor" target="_blank">here</a>. 
+*  Bogireddy, N.R., Suresh S., & **Rai, S**. (2023). I'm out of breath from laughing! I think?  A dataset of COVID-19 Humor and its toxic variants. WWW'23 Companion. Preprint and Dataset available  <a href="https://github.com/smritae01/Covid19_Humor" target="_blank">here</a>. 🏆 Dataset for <a href = "https://clef2024.imag.fr/index.php?page=Pages/lab_pages/joker.html"> CLEF 2024 Automatic Humor Analysis</a>
 *  **Rai, S.**, Joseph R., Thakur P.S. & Khaliq A.M. (2022). Identifying Human Needs through Social Media: A study on Indian cities during COVID-19. <a href="https://sites.google.com/view/socialnlp2022/" target="_blank">Social NLP,  NAACL 2022</a> . Available at <a href="https://aclanthology.org/2022.socialnlp-1.6/" target="_blank">Link</a> 
 *  [Non archival] Joseph R., **Rai, S.**,  Thakur P.S. & Khaliq A.M. (2022). Pandemic, People and Pattern of Needs: Emerging Trends in Indian Society during COVID-19.  <a href="https://boothuchicagocaai.wixsite.com/website-2" target="_blank">IC2S2 2022</a> . Abstract available at <a href="https://www.researchgate.net/publication/360726177_Pandemic_People_and_Pattern_of_Needs_Emerging_Trends_in_Indian_Society_during_COVID-19" target="_blank">Link</a> 
 * Khaliq, A M., Joseph, R. & **Rai, S.** (2021). #covid is war and #vaccine is weapon? COVID-19 metaphors in India. In the 18th Proceedings of International Conference on Natural Language Processing (ICON), NLPAI.  <a href="https://aclanthology.org/2021.icon-main.52/" target="_blank">Link</a> 
