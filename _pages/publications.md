@@ -6,7 +6,7 @@ author_profile: true
 
 Latest (Preprints)
 
-* <a href = "https://arxiv.org/abs/2402.11333"> Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice </a> 📰 featured in <a href = "https://www.ggd.world/p/what-do-hollywood-and-bollywood-regard"> The Great Gender Divergence </a>
+* **To appear in NAACL'25** <a href = "https://arxiv.org/abs/2402.11333"> Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice </a> 📰 featured in <a href = "https://www.ggd.world/p/what-do-hollywood-and-bollywood-regard"> The Great Gender Divergence </a> 
 * <a href = "https://osf.io/s4ed6/?view_only=60e283ff40034b22a13385edbfd07cf6"> Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations </a>
 
 For latest publication, visit [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=C-gi0v8AAAAJ&view_op=list_works&sortby=pubdate)
