@@ -4,15 +4,17 @@ permalink: "about"
 
 ---
 
-I'm a postdoctoral researcher in the Department of Computer and Information Science at the University of Pennsylvania. My advisors are [Dr. Lyle H. Ungar](https://www.cis.upenn.edu/~ungar/) and [Dr. Sharath C. Guntuku](https://sharathg.cis.upenn.edu/). I completed Ph.D. from the University of Delhi, India. I specialize in culturally aware Natural Language Processing with a focus on AI in Health. Currently, I am working on:
+I'm a postdoctoral researcher in the Department of Computer and Information Science at the University of Pennsylvania. I am grateful to be advised by [Dr. Lyle H. Ungar](https://www.cis.upenn.edu/~ungar/) and [Dr. Sharath C. Guntuku](https://sharathg.cis.upenn.edu/). I completed Ph.D. from the University of Delhi, India. I specialize in culturally aware Natural Language Processing with a focus on AI for Health. Currently, I am working on:
 
 - [cultural alignment x behavioral health] Identifying cross-cultural variations in depression and benchmarking its impact on AI mental health assessment
 - [cultural alignment x behavioral health] building a culturally informed chatbot for virtual vaccine counseling 
-- [cultural alignment] how and why social emotions (shame, pride & guilt) are expressed across cultures
+- [cultural alignment] building socially aware LLM
 - [bias and risk in LLMs] Measuring harmful gender norms in entertainment media - a colab with the World Bank
 
-Recent News
+News
 
+* [Oct'25] Paper accepted in EMNLP'25 & NeurIPS'25
+* [Oct'25] Excited to be featured in [Ideas of India](https://www.mercatus.org/ideasofindia/sunny-rai-using-large-language-models-understand-depiction-shame-and-pride-bollywood) podcast.
 * [Jan'25] Long paper accepted in [NAACL'25](https://2025.naacl.org/). 
 * [Dec'24] Awarded Leonard Davis Institute grant of USD 19,500 for multimodal depression risk assessment.
 * [Aug'24] Awarded PMCRI grant of USD 50,000 to build a chatbot for virtual HPV vaccine counseling.

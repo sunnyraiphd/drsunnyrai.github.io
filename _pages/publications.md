@@ -5,14 +5,15 @@ author_profile: true
 ---
 
 Latest (Preprints)
-
-* **To appear in NAACL'25** <a href = "https://arxiv.org/abs/2402.11333"> Social Norms in Cinema: A Cross-Cultural Analysis of Shame, Pride and Prejudice </a> 📰 featured in <a href = "https://www.ggd.world/p/what-do-hollywood-and-bollywood-regard"> The Great Gender Divergence </a> 
 * <a href = "https://osf.io/s4ed6/?view_only=60e283ff40034b22a13385edbfd07cf6"> Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations </a>
 
 For latest publication, visit [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=C-gi0v8AAAAJ&view_op=list_works&sortby=pubdate)
 
 Selected Publications
 
+* Gupta, A., Joseph, R., & **Rai, S.** (2025, August). HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models. In The 2nd Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-Angle II) (p. 57).
+* **Rai, S.**, Zaveri, K., Havaldar, S., Nema, S., Ungar, L., & Guntuku, S. C. (2025, April). Social norms in cinema: A cross-cultural analysis of shame, pride and prejudice. NAACL. Featured in <a href = "https://www.mercatus.org/ideasofindia/sunny-rai-using-large-language-models-understand-depiction-shame-and-pride-bollywood"> Ideas of India podcast </a> <a href = "https://www.ggd.world/p/what-do-hollywood-and-bollywood-regard"> The Great Gender Divergence </a> , 
+* **Rai, S.**, Shelat, K., Jain, D. R., Sivabalan, K., Cho, Y. M., Redkar, M., ... & Guntuku, S. C. (2025, May). Cross-Cultural Differences in Mental Health Expressions on Social Media. In The 3rd Workshop on Cross-Cultural Considerations in NLP (C3NLP 2025) (p. 132). 🏆 Outstanding Paper Award
 * Havaldar, S, Giorgi, S, **Rai, S.**, Talhelm, T, Ungar, L., Guntuku, S.C. (2024). Building Knowledge Guided Lexica to Model Cultural Variation. NAACL'24.
 * **Rai, S.**, Stade, E. C., Giorgi, S., Francisco, A., Ungar, L. H., Curtis, B., & Guntuku, S. C. (2024). Key language markers of depression on social media depend on race. PNAS. <a href = "https://www.pnas.org/doi/10.1073/pnas.2319837121"> Paper</a> 🏆 Plenary talk at IC2S2 2023.
 * Cho, Y.M., **Rai, S.**, Ungar, L., Sedoc J., Guntuku, S.C. (2023). An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives. EMNLP'23, Singapore. 
