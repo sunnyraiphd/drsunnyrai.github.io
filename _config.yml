@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hi! I'm Sunny Rai"
+title                    : "Sunny Rai"
 title_separator          : "-"
 name                     : &name "Sunny Rai"
 description              : &description "sunnyrai at seas.upenn.edu"
