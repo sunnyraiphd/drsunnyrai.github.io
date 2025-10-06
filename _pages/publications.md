@@ -5,12 +5,15 @@ author_profile: true
 ---
 
 Latest (Preprints)
-* <a href = "https://osf.io/s4ed6/?view_only=60e283ff40034b22a13385edbfd07cf6"> Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations </a>
+*  Cross-Cultural Considerations for Designing Mental Health Applications: Ten Practical Recommendations <a href = "https://osf.io/s4ed6/?view_only=60e283ff40034b22a13385edbfd07cf6"> Link </a>
+* Conversations with AI Chatbots Increase Short-Term Vaccine Intentions But Do Not Outperform Standard Public Health Messaging. <a href = "https://arxiv.org/abs/2504.20519"> Link </a>
+
 
 For latest publication, visit [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=C-gi0v8AAAAJ&view_op=list_works&sortby=pubdate)
 
 Selected Publications
 
+* Havaldar, S., Cho, Y.M., Rai, S., Ungar, L. (2025) Culturally-Aware Conversations: A Framework & Benchmark for LLMs. Bridging Human-Computer Interaction and Natural Language Processing. EMNLP 2025.
 * Gupta, A., Joseph, R., & **Rai, S.** (2025, August). HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models. In The 2nd Workshop on Analogical Abstraction in Cognition, Perception, and Language (Analogy-Angle II) (p. 57).
 * **Rai, S.**, Zaveri, K., Havaldar, S., Nema, S., Ungar, L., & Guntuku, S. C. (2025, April). Social norms in cinema: A cross-cultural analysis of shame, pride and prejudice. NAACL. Featured in <a href = "https://www.mercatus.org/ideasofindia/sunny-rai-using-large-language-models-understand-depiction-shame-and-pride-bollywood"> Ideas of India podcast </a>,  <a href = "https://www.ggd.world/p/what-do-hollywood-and-bollywood-regard"> The Great Gender Divergence </a> 
 * **Rai, S.**, Shelat, K., Jain, D. R., Sivabalan, K., Cho, Y. M., Redkar, M., ... & Guntuku, S. C. (2025, May). Cross-Cultural Differences in Mental Health Expressions on Social Media. In The 3rd Workshop on Cross-Cultural Considerations in NLP (C3NLP 2025) (p. 132). 🏆 Outstanding Paper Award
