@@ -1,0 +1,19 @@
+current directory: /Users/sr/Github/sunnyraiphd.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sr/Github/sunnyraiphd.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251006-20305-imlz0v sitelibdir\=./.gem.20251006-20305-imlz0v clean
+
+current directory: /Users/sr/Github/sunnyraiphd.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251006-20305-imlz0v sitelibdir\=./.gem.20251006-20305-imlz0v
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.4.6/lib/libruby.3.4.dylib) was built for newer macOS version (15.0) than being linked (13.3)
+
+current directory: /Users/sr/Github/sunnyraiphd.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251006-20305-imlz0v sitelibdir\=./.gem.20251006-20305-imlz0v install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251006-20305-imlz0v/racc
+
+current directory: /Users/sr/Github/sunnyraiphd.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251006-20305-imlz0v sitelibdir\=./.gem.20251006-20305-imlz0v clean
