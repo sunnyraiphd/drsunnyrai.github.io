@@ -4,5 +4,5 @@ permalink: "/cv/"
 author_profile: "true"
 ---
 
-<object data="files/cv_2025.pdf" width="100%" height="1000" type="application/pdf"></object>
+<object data="/assets/cv_2025.pdf" width="100%" height="1000" type="application/pdf"></object>
 
